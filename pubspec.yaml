@@ -1,0 +1,23 @@
+name: package_camera
+description: "A new Flutter package project."
+version: 0.0.1
+#homepage:
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^4.1.6
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
